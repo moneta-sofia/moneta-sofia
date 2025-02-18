@@ -6,7 +6,7 @@
 
 ###
 
-<p align="center">I'm Sofia Moneta from Argentina! 🩵🤍🩵 <br>A Backend Developer 👩‍💻</p>
+<p align="center">I'm Sofia Moneta! <br>A Backend Developer 👩‍💻</p>
 
 ###
 
